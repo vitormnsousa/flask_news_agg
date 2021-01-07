@@ -5,6 +5,9 @@ __pycache__/
 # C extensions
 *.so
 
+#Windows folder
+\appflask
+
 # Distribution / packaging
 .Python
 env/
